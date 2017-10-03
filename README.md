@@ -1,3 +1,5 @@
+# CppLang Slack Code of Conduct
+
 Introduction
 ------------
 
