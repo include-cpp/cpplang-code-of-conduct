@@ -44,4 +44,9 @@ Enforcement
 - If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form [here](https://docs.google.com/forms/d/e/1FAIpQLSfQYuWg_RzAeNLU-gFhZwI7wzforza4asesMnGH2hC5amwkGA/viewform), or contact an administrator directly. An up-to-date list of administrators can be found by clicking the ⋮ the top-right of the Slack UI, going to "Workspace Directory" and filtering by "Admins".
 - If violations occur, organizers will take any action they deem appropriate for the infraction, up to and including expulsion.
 
+Meta
+----
+
+This document is managed on GitHub. Pull requests can be sent [here](https://github.com/TartanLlama/cpplang-code-of-conduct). Suggestions, questions, or comments can be made directly to administrators, or discussed on the `#meta` channel.
+
 Derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and [Citizen Code of Conduct](http://citizencodeofconduct.org/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
