@@ -23,7 +23,7 @@ Expected Behavior
 Unacceptable Behavior
 ---------------------
 
-The following behaviours are unacceptable in both online and physical events:
+The following behaviours are unacceptable both in the CppLang Slack Team, and in any physical or online events officially organized by it's administrative team:
 
 - Violence, threats of violence or violent language directed against another person.
 - Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
