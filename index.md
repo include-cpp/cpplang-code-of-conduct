@@ -47,6 +47,8 @@ Enforcement
 Meta
 ----
 
-This document is managed on GitHub. Pull requests can be sent [here](https://github.com/TartanLlama/cpplang-code-of-conduct). Suggestions, questions, or comments can be made directly to administrators, or discussed on the `#meta` channel.
+- This document is managed on GitHub.
+- Pull requests can be sent [here](https://github.com/TartanLlama/cpplang-code-of-conduct).
+- Suggestions, questions, or comments can be made directly to administrators, or discussed on the `#meta` channel.
 
 Derived from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and [Citizen Code of Conduct](http://citizencodeofconduct.org/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
