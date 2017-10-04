@@ -18,12 +18,10 @@ While in practice most actions from moderators and administrators will be friend
 Suggested strategies for moderators when dealing with observed violations
 -------------------------------------------------------------------------
 
-Except in the most egregious cases, moderators will follow these guidelines:
+Moderators will use their judgement to decide how to respond to a violation to the Code of Conduct.
 
-- First, attempt to privately message the user and point out to them that their behavior violates our Code of Conduct. Include a link to the Code of Conduct in that message.
-- If the user does not respond to a request, escalate to the private #admins channel to discuss the incident with fellow community moderators.
-- Once the issue has been discussed with the fellow community moderators, decide if further steps need to be taken.
-
-In those cases of obvious, flagrant violations, moderators will remove the post immediately, and bring the issue to the attention of the private #admins channel.
+- For very minor infractions, a small public message saying the discussion is getting out of hand may be enough.
+- In other cases it may be better to contact the person or people responsible for the violation privately.
+- In cases of obvious, flagrant violations, moderators will remove the post immediately, and bring the issue to the attention of the private #admins channel.
 
 Derived from the [GoBridge Addendum](https://github.com/gobridge/CodeOfConduct) to the Go Code of Conduct.
