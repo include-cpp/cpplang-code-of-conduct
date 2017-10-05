@@ -47,6 +47,12 @@ Enforcement
 - Moderation guidelines can be found [here]({{site.baseurl}}/moderation).
   - If you believe that an administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
 
+Private Channels
+----------------
+
+Currently private channels are moderated only by those members who are invited to that channel. They are given a degree of autonomy, and this will be maintained so long as this trust is not abused. Do **not** invite people into private channels who did not consent to being there. CoC violation reports regarding discussion from private channels will be subject to the same consideration as in public channels.
+
+
 Meta
 ----
 
