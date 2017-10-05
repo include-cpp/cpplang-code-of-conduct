@@ -33,7 +33,7 @@ The following behaviours are unacceptable in all CppLang Slack channels, and in 
 - Personal insults, particularly those related to gender, sexual orientation, ethnicity, religion, or disability.
 - Inappropriate photography or recording.
 - Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes, sexualised comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Unwelcome sexual attention. This includes sexualised comments or jokes, inappropriate touching, groping, and unwelcomed sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
 - Advocating for, or encouraging, any of the above behaviour.
 - Sustained disruption of community events, including talks and presentations.
