@@ -44,7 +44,7 @@ Enforcement
 - Understand that speech and actions have consequences, and unacceptable behaviour will not be tolerated.
 - If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by submitting a form [here](https://docs.google.com/forms/d/e/1FAIpQLSfQYuWg_RzAeNLU-gFhZwI7wzforza4asesMnGH2hC5amwkGA/viewform), or contact an administrator directly. An up-to-date list of administrators can be found by clicking the `...` the top-right of the Slack UI, going to "Workspace Directory" and filtering by "Admins".
 - If violations occur, organisers will take any action they deem appropriate for the infraction, up to and including expulsion.
-- Moderation guidelines can be found [here](moderation).
+- Moderation guidelines can be found [here]({{site.baseurl}}/moderation).
   - If you believe that an administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
 
 Meta
