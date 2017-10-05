@@ -8,7 +8,7 @@ CppLang Slack Moderation Guidelines
 Introduction
 ------------
 
-It is important that all users’ questions, answers and comments are in line with the [CppLang Slack Code of Conduct](/), as well as with the category and topic, or channel, they belong to. When deciding to approach a user, moderators and administrators must always assume intentions are good, which is usually the case. Over-moderation is harmful to the atmosphere of the community and should be avoided.
+It is important that all users’ questions, answers and comments are in line with the [CppLang Slack Code of Conduct](cpplang-code-of-conduct), as well as with the category and topic, or channel, they belong to. When deciding to approach a user, moderators and administrators must always assume intentions are good, which is usually the case. Over-moderation is harmful to the atmosphere of the community and should be avoided.
 
 Expectations for moderator enforcement
 --------------------------------------
