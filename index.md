@@ -5,7 +5,7 @@ layout: default
 CppLang Slack Code of Conduct
 =============================
 
-The CppLang Slack team lives at [cpplang.slack.com](https://cpplang.slack.com). New members may join [here](https://cpplang.now.sh/).
+The CppLang Slack team lives at [cpplang.slack.com](https://cpplang.slack.com).
 
 Introduction
 ------------
